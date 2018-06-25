@@ -1,0 +1,1392 @@
+fileFormatVersion: 2
+guid: 403f7d7c8f729204a856cb8738e9be55
+timeCreated: 1491117898
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Galaga-SpaceShip Sprites_0
+    21300002: Galaga-SpaceShip Sprites_1
+    21300004: Galaga-SpaceShip Sprites_2
+    21300006: Galaga-SpaceShip Sprites_3
+    21300008: Galaga-SpaceShip Sprites_4
+    21300010: Galaga-SpaceShip Sprites_5
+    21300012: Galaga-SpaceShip Sprites_6
+    21300014: Galaga-SpaceShip Sprites_7
+    21300016: Galaga-SpaceShip Sprites_8
+    21300018: Galaga-SpaceShip Sprites_9
+    21300020: Galaga-SpaceShip Sprites_10
+    21300022: Galaga-SpaceShip Sprites_11
+    21300024: Galaga-SpaceShip Sprites_12
+    21300026: Galaga-SpaceShip Sprites_13
+    21300028: Galaga-SpaceShip Sprites_14
+    21300030: Galaga-SpaceShip Sprites_15
+    21300032: Galaga-SpaceShip Sprites_16
+    21300034: Galaga-SpaceShip Sprites_17
+    21300036: Galaga-SpaceShip Sprites_18
+    21300038: Galaga-SpaceShip Sprites_19
+    21300040: Galaga-SpaceShip Sprites_20
+    21300042: Galaga-SpaceShip Sprites_21
+    21300044: Galaga-SpaceShip Sprites_22
+    21300046: Galaga-SpaceShip Sprites_23
+    21300048: Galaga-SpaceShip Sprites_24
+    21300050: Galaga-SpaceShip Sprites_25
+    21300052: Galaga-SpaceShip Sprites_26
+    21300054: Galaga-SpaceShip Sprites_27
+    21300056: Galaga-SpaceShip Sprites_28
+    21300058: Galaga-SpaceShip Sprites_29
+    21300060: Galaga-SpaceShip Sprites_30
+    21300062: Galaga-SpaceShip Sprites_31
+    21300064: Galaga-SpaceShip Sprites_32
+    21300066: Galaga-SpaceShip Sprites_33
+    21300068: Galaga-SpaceShip Sprites_34
+    21300070: Galaga-SpaceShip Sprites_35
+    21300072: Galaga-SpaceShip Sprites_36
+    21300074: Galaga-SpaceShip Sprites_37
+    21300076: Galaga-SpaceShip Sprites_38
+    21300078: Galaga-SpaceShip Sprites_39
+    21300080: Galaga-SpaceShip Sprites_40
+    21300082: Galaga-SpaceShip Sprites_41
+    21300084: Galaga-SpaceShip Sprites_42
+    21300086: Galaga-SpaceShip Sprites_43
+    21300088: Galaga-SpaceShip Sprites_44
+    21300090: Galaga-SpaceShip Sprites_45
+    21300092: Galaga-SpaceShip Sprites_46
+    21300094: Galaga-SpaceShip Sprites_47
+    21300096: Galaga-SpaceShip Sprites_48
+    21300098: Galaga-SpaceShip Sprites_49
+    21300100: Galaga-SpaceShip Sprites_50
+    21300102: Galaga-SpaceShip Sprites_51
+    21300104: Galaga-SpaceShip Sprites_52
+    21300106: Galaga-SpaceShip Sprites_53
+    21300108: Galaga-SpaceShip Sprites_54
+    21300110: Galaga-SpaceShip Sprites_55
+    21300112: Galaga-SpaceShip Sprites_56
+    21300114: Galaga-SpaceShip Sprites_57
+    21300116: Galaga-SpaceShip Sprites_58
+    21300118: Galaga-SpaceShip Sprites_59
+    21300120: Galaga-SpaceShip Sprites_60
+    21300122: Galaga-SpaceShip Sprites_61
+    21300124: Galaga-SpaceShip Sprites_62
+    21300126: Galaga-SpaceShip Sprites_63
+    21300128: Galaga-SpaceShip Sprites_64
+    21300130: Galaga-SpaceShip Sprites_65
+    21300132: Galaga-SpaceShip Sprites_66
+    21300134: Galaga-SpaceShip Sprites_67
+    21300136: Galaga-SpaceShip Sprites_68
+    21300138: Galaga-SpaceShip Sprites_69
+    21300140: Galaga-SpaceShip Sprites_70
+    21300142: Galaga-SpaceShip Sprites_71
+    21300144: Galaga-SpaceShip Sprites_72
+    21300146: Galaga-SpaceShip Sprites_73
+    21300148: Galaga-SpaceShip Sprites_74
+    21300150: Galaga-SpaceShip Sprites_75
+    21300152: Galaga-SpaceShip Sprites_76
+    21300154: Galaga-SpaceShip Sprites_77
+    21300156: Galaga-SpaceShip Sprites_78
+    21300158: Galaga-SpaceShip Sprites_79
+    21300160: Galaga-SpaceShip Sprites_80
+    21300162: Galaga-SpaceShip Sprites_81
+    21300164: Galaga-SpaceShip Sprites_82
+    21300166: Galaga-SpaceShip Sprites_83
+    21300168: Galaga-SpaceShip Sprites_84
+    21300170: Galaga-SpaceShip Sprites_85
+    21300172: Galaga-SpaceShip Sprites_86
+    21300174: Galaga-SpaceShip Sprites_87
+    21300176: Galaga-SpaceShip Sprites_88
+    21300178: Galaga-SpaceShip Sprites_89
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: 2
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 270
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 269
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_2
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 269
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_3
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 269
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_4
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 269
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_5
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 269
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_6
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 269
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_7
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 269
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 246
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_9
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 245
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_10
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 245
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_11
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 245
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_12
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 245
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_13
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 245
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_14
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 245
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_15
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 245
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 221
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_17
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 222
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_18
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 222
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_19
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 222
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_20
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 221
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_21
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 221
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_22
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 221
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_23
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 221
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 197
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_25
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 198
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_26
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 198
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_27
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 198
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_28
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 197
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_29
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 197
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_30
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 197
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_31
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 197
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_32
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 174
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_33
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 176
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_34
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 174
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_35
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 175
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_36
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 175
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_37
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 175
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_38
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 176
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_39
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 176
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_40
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 150
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_41
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 151
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_42
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 150
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_43
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 150
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_44
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 151
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_45
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 151
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_46
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 152
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_47
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 152
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_48
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 128
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_49
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 127
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_50
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 127
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_51
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 128
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_52
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 127
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_53
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 127
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_54
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 127
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_55
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 104
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_56
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 105
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_57
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 103
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_58
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 105
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_59
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 103
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_60
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 103
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_61
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 103
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_62
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 80
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_63
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 79
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_64
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 78
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_65
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 79
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_66
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 78
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_67
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 79
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_68
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 79
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_69
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 54
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_70
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 55
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_71
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 56
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_72
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 56
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_73
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 56
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_74
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 55
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_75
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 55
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_76
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 29
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_77
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 29
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_78
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 29
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_79
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 29
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_80
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 29
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_81
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 29
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_82
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 29
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_83
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 7
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_84
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 6
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_85
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_86
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_87
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 5
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_88
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 5
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Galaga-SpaceShip Sprites_89
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 5
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
